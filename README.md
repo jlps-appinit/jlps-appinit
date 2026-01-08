@@ -24,3 +24,6 @@ Sr. Frontend Developer con más de 10 años de experiencia en el desarrollo de a
 ![Mongo DB](https://img.shields.io/badge/Mongo_DB-22272e?logo=mongodb&logoColor=47A248&style=for-the-badge)
 
 </div>
+
+<!-- START_SECTION:activity -->
+<!-- END_SECTION:activity -->
